@@ -1,8 +1,3 @@
-# finance-manager
-Great! Here's your updated **README** file, including all the features you've added:  
-
----
-
 # **Finance Manager App** 💰📊  
 
 Welcome to the **Finance Manager App** – your all-in-one personal finance management tool!  
