@@ -17,6 +17,3 @@ Welcome to the **Finance Manager App** – your all-in-one personal finance mana
 
 Start managing your finances smarter today! 🚀  
 
----
-
-Let me know if you'd like any more changes! 😊
