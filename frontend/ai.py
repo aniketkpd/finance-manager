@@ -5,7 +5,7 @@ import streamlit as st
 import time
 
 def ai(uid):
-    API_KEY = "AIzaSyCJ1C8HVs6d2czFjiVZi2sQRdMBF4koCYM"
+    API_KEY = "AIzaSyDd5sBg1YPdcPpN_Ufx4Rkl0d6bgv1Da4k"
 
     # Initialize the Gemini API
     genai.configure(api_key=API_KEY)
@@ -52,6 +52,7 @@ def ai(uid):
     st.write(response.text)
 
     return True  # Indicates successful AI execution
+
 
 
 
